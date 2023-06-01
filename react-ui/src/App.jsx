@@ -1,13 +1,14 @@
-import './App.css'
+import { Header, Footer, Main } from "./sectioning";
+import "./App.css";
 
 function App() {
-
-
   return (
-    <div>
-      
-    </div>
-  )
+    <>
+      <Header />
+      <Main />
+      <Footer />
+    </>
+  );
 }
 
-export default App
+export default App;

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "The Book Keeper",
+    "href": "/",
+    "id": 101
+  },
+  {
+    "name": "Books",
+    "href": "/books",
+    "id": 102
+  },
+  {
+    "name": "Shop",
+    "href": "/shop",
+    "id": 103
+  },
+  {
+    "name": "Favorites",
+    "href": "/favorites",
+    "id": 104
+  }
+]
