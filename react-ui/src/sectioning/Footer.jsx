@@ -6,8 +6,12 @@ export default function Footer() {
   return (
     <footer>
       <div className="y-wrap">
-        <AiFillGithub className="icon"></AiFillGithub>
-        <AiFillLinkedin className="icon"></AiFillLinkedin>
+        <a href="https://github.com/jhongarcian">
+          <AiFillGithub className="icon"></AiFillGithub>
+        </a>
+        <a href="https://www.linkedin.com/in/john-garcian/">
+          <AiFillLinkedin className="icon"></AiFillLinkedin>
+        </a>
       </div>
     </footer>
   )
