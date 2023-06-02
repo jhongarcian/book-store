@@ -1,0 +1,28 @@
+header {
+    background-color: var(--primary-color-orange-dark);
+    width: 100%;
+    height: auto;
+}
+
+nav {
+    padding: 14px 0;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+nav ul li:first-of-type {
+    flex: 1;
+    margin-right: auto;
+}
+
+li .active {
+    color: var(--grey-900);
+}
+
+li {
+    color: var(--grey-700);
+}

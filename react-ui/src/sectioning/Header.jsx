@@ -1,6 +1,7 @@
 import React from "react";
 import navs from '../mocks/navs.json'
 import { NavLink } from "react-router-dom";
+import './css/Header.css'
 
 const Header = () => {
     const navLinks = navs.map(nav => {
@@ -14,11 +15,11 @@ const Header = () => {
     })
   return (
     <header>
-        <navs>
+        <nav className="y-wrap">
             <ul>
                 {navLinks}
             </ul>
-        </navs>
+        </nav>
     </header>
   );
 };

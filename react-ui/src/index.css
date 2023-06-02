@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,600;1,300&family=Sarabun:wght@300;500;700&display=swap");
+
+:root {
+  /* grey */
+  --grey-50: #f8fafc;
+  --grey-100: #f1f5f9;
+  --grey-200: #e2e8f0;
+  --grey-300: #cbd5e1;
+  --grey-400: #94a3b8;
+  --grey-500: #64748b;
+  --grey-600: #475569;
+  --grey-700: #334155;
+  --grey-800: #1e293b;
+  --grey-900: #0f172a;
+
+  /* Additional Colors: */
+
+  --primary-color-orange: #ffe4c8;
+  --primary-color-orange-dark: #f9cc9c;
+  --primary-color-grey: #eef2f3;
+  --primary-color-light: #f5eae7;
+
+  /* box shadow*/
+  --shadow-1: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  --shadow-2: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-3: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --shadow-4: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+    0 10px 10px -5px rgba(0, 0, 0, 0.04);
+
+  --transition: 0.3s ease-in-out all;
+  --backgroundColor-orange: var(--primary-color-orange);
+  --backgroundColor-grey: var(--primary-color-grey);
+  --backgroundColor-light: var(--primary-color-light);
+  --textColor: var(--grey-700);
+}
