@@ -29,14 +29,37 @@ html {
   width: 90%;
   margin: 0 auto;
 }
-
+.y-wrap-main {
+  width: 95%;
+  margin: 0 auto;
+}
 .icon {
-    width: 24px;
-    height: 24px;
-    cursor: pointer;
-    transition: transform .5s;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  transition: transform 0.5s;
 }
 
 .icon:hover {
-    transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+.btn-primary {
+  padding: 12px 24px;
+  border: transparent;
+  background-color: var(--primary-color-orange-dark);
+  border-radius: 8px;
+  cursor: pointer;
+  color: var(--grey-700);
+  transition: .2s ease;
+}
+
+.btn-primary:hover {
+  transform: scale(1.02);
 }

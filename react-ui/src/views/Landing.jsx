@@ -1,6 +1,11 @@
 import React from "react";
+import { Hero } from "../components/Landing";
 
 function Landing() {
-  return <div>Landing</div>;
+  return (
+    <>
+      <Hero></Hero>
+    </>
+  );
 }
 export default Landing;
