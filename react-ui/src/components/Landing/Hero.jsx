@@ -1,10 +1,16 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom'
 import '../css/Hero.css'
-import girl from '../../assets/girl-reading-books.png'
+import girl from '../../assets/girl.png'
 
 const Hero = () => {
+    const navigate = useNavigate();
+
+    const handleClick = () => {
+        navigate('books')
+    }
   return (
-    <section className='hero-container-left'>
+    <section className='hero-container'>
         <div className='y-wrap container'>
             <div className='headline-container'>
                 <div className='headline'>
@@ -12,11 +18,11 @@ const Hero = () => {
                     <span>not sure what to read? Explore our catalog of best sellers books</span> 
                 </div>
                 <div>
-                    <button className='btn-primary animate-btn'>Explore now</button>
+                    <button onClick={handleClick}  className='btn-primary animate-btn'>Explore now</button>
                 </div>
             </div>
             <div className='image-container'>
-                <img src={girl} alt="girl reading books" className='img' />
+                <img src={girl} alt="girl reading books" className='img hero-image' />
             </div>
         </div>
     </section>

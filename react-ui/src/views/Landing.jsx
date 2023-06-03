@@ -1,10 +1,11 @@
 import React from "react";
-import { Hero } from "../components/Landing";
+import { Hero, TopBooks } from "../components/Landing";
 
 function Landing() {
   return (
     <>
       <Hero></Hero>
+      <TopBooks></TopBooks>
     </>
   );
 }

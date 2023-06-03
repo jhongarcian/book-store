@@ -1,5 +1,5 @@
-.hero-container-left {
-  background-color: var(--backgroundColor-light);
+.hero-container {
+  background-color: #ffffff;
   width: 100%;
 }
 
@@ -59,7 +59,12 @@
 }
 
 .image-container {
+  border-radius: 50%;
+  overflow: hidden;
   flex: 1;
+}
+.hero-image {
+  max-width: 140px;
 }
 
 .image-container img {
@@ -104,5 +109,8 @@
   .headline h1 {
     font-size: 46px;
     line-height: 46px;
+  }
+  .hero-image {
+    max-width: 400px;
   }
 }

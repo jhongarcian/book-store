@@ -1,0 +1,59 @@
+.top-books-container {
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.top-books-container .title-container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.top-books-container .sub-title {
+  text-transform: capitalize;
+}
+
+.top-trending-books {
+  padding: 32px 12px;
+  background-color: var(--primary-color-grey);
+  border-radius: 8px;
+  box-shadow: var(--shadow-3);
+  text-align: center;
+}
+
+.animate-title {
+  animation: 1s animate-title;
+}
+
+@keyframes animate-title {
+  0% {
+    opacity: 0;
+    margin-left: -100px;
+  }
+  100% {
+    opacity: 1;
+    margin-left: 0;
+  }
+}
+
+.top-books-container--wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.top-books__section-book {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin: 0 auto;
+}
+
+@media (width >= 640px) {
+  .top-books__section-book {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: unset;
+  }
+}

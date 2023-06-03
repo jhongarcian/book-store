@@ -1,0 +1,3006 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+    "num_results": 55,
+    "results": {
+      "bestsellers_date": "2023-05-27",
+      "published_date": "2023-06-11",
+      "published_date_description": "latest",
+      "previous_published_date": "2023-06-04",
+      "next_published_date": "",
+      "lists": [
+        {
+          "list_id": 704,
+          "list_name": "Combined Print and E-Book Fiction",
+          "list_name_encoded": "combined-print-and-e-book-fiction",
+          "display_name": "Combined Print & E-Book Fiction",
+          "updated": "WEEKLY",
+          "list_image": null,
+          "list_image_width": null,
+          "list_image_height": null,
+          "books": [
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/gp/search?index=books&tag=NYTBSREV-20&field-keywords=IDENTITY+Nora+Roberts",
+              "article_chapter_link": "",
+              "author": "Nora Roberts",
+              "book_image": null,
+              "book_image_width": null,
+              "book_image_height": null,
+              "book_review_link": "",
+              "contributor": "by Nora Roberts",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:25",
+              "description": "After her roommate is killed by a con artist, a former Army brat builds a new life at her mother's home in Vermont.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1250284325",
+              "primary_isbn13": "9781250284327",
+              "book_uri": "nyt://book/7e582e61-794c-518b-9dd3-a6125f34346c",
+              "publisher": "St. Martin's",
+              "rank": 1,
+              "rank_last_week": 0,
+              "sunday_review_link": "",
+              "title": "IDENTITY",
+              "updated_date": "2023-05-31 22:24:49",
+              "weeks_on_list": 1,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/gp/search?index=books&tag=NYTBSREV-20&field-keywords=IDENTITY+Nora+Roberts"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781250284327?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250284327"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FIDENTITY%252FNora%252BRoberts%252F9781250284327&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DIDENTITY%252BNora%252BRoberts"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250284327&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DIDENTITY"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250284327%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DIDENTITY%2BNora%2BRoberts%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0593441273?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Emily Henry",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593441275.jpg",
+              "book_image_width": 331,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Emily Henry",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:25",
+              "description": "A former couple pretend to be together for the sake of their friends during their annual getaway in Maine.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0593441273",
+              "primary_isbn13": "9780593441275",
+              "book_uri": "nyt://book/9ab3a59a-e572-5452-ae0c-eedeadb05831",
+              "publisher": "Berkley",
+              "rank": 2,
+              "rank_last_week": 2,
+              "sunday_review_link": "",
+              "title": "HAPPY PLACE",
+              "updated_date": "2023-05-31 22:24:49",
+              "weeks_on_list": 5,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0593441273?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780593441275?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593441275"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FHAPPY%252BPLACE%252FEmily%252BHenry%252F9780593441275&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DHAPPY%252BPLACE%252BEmily%252BHenry"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593441275&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DHAPPY%2BPLACE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593441275%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DHAPPY%2BPLACE%2BEmily%2BHenry%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "http://www.amazon.com/Ends-Us-Novel-Colleen-Hoover-ebook/dp/B0176M3U10?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Colleen Hoover",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+              "book_image_width": 319,
+              "book_image_height": 495,
+              "book_review_link": "",
+              "contributor": "by Colleen Hoover",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:25",
+              "description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1501110365",
+              "primary_isbn13": "9781501110368",
+              "book_uri": "nyt://book/e2a3545e-e9cb-5828-9d97-50a798a0e4f6",
+              "publisher": "Atria",
+              "rank": 3,
+              "rank_last_week": 3,
+              "sunday_review_link": "",
+              "title": "IT ENDS WITH US",
+              "updated_date": "2023-05-31 22:24:49",
+              "weeks_on_list": 102,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "http://www.amazon.com/Ends-Us-Novel-Colleen-Hoover-ebook/dp/B0176M3U10?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781501110368?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501110368"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FIT%252BENDS%252BWITH%252BUS%252FColleen%252BHoover%252F9781501110368&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DIT%252BENDS%252BWITH%252BUS%252BColleen%252BHoover"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781501110368&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DIT%2BENDS%2BWITH%2BUS"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781501110368%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DIT%2BENDS%2BWITH%2BUS%2BColleen%2BHoover%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0802162177?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Abraham Verghese",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780802162175.jpg",
+              "book_image_width": 320,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Abraham Verghese",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:25",
+              "description": "Three generations of a family living on South India’s Malabar Coast suffer the loss of a family member by drowning.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0802162177",
+              "primary_isbn13": "9780802162175",
+              "book_uri": "nyt://book/5ebf1d34-4c68-560a-8330-7e65bedaaa1a",
+              "publisher": "Grove",
+              "rank": 4,
+              "rank_last_week": 13,
+              "sunday_review_link": "",
+              "title": "THE COVENANT OF WATER",
+              "updated_date": "2023-05-31 22:24:49",
+              "weeks_on_list": 4,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0802162177?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780802162175?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780802162175"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BCOVENANT%252BOF%252BWATER%252FAbraham%252BVerghese%252F9780802162175&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BCOVENANT%252BOF%252BWATER%252BAbraham%252BVerghese"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780802162175&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BCOVENANT%2BOF%2BWATER"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780802162175%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BCOVENANT%2BOF%2BWATER%2BAbraham%2BVerghese%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/1668001225?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Colleen Hoover",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668001226.jpg",
+              "book_image_width": 322,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Colleen Hoover",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:25",
+              "description": "In the sequel to “It Ends With Us,” Lily deals with her jealous ex-husband as she reconnects with her first boyfriend.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1668001225",
+              "primary_isbn13": "9781668001226",
+              "book_uri": "nyt://book/3aa85e47-4df9-53ef-9957-a77753d3502c",
+              "publisher": "Atria",
+              "rank": 5,
+              "rank_last_week": 4,
+              "sunday_review_link": "",
+              "title": "IT STARTS WITH US",
+              "updated_date": "2023-05-31 22:24:50",
+              "weeks_on_list": 32,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/1668001225?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781668001226?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668001226"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FIT%252BSTARTS%252BWITH%252BUS%252FColleen%252BHoover%252F9781668001226&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DIT%252BSTARTS%252BWITH%252BUS%252BColleen%252BHoover"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781668001226&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DIT%2BSTARTS%2BWITH%2BUS"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781668001226%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DIT%2BSTARTS%2BWITH%2BUS%2BColleen%2BHoover%26aff%3DNYT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "list_id": 708,
+          "list_name": "Combined Print and E-Book Nonfiction",
+          "list_name_encoded": "combined-print-and-e-book-nonfiction",
+          "display_name": "Combined Print & E-Book Nonfiction",
+          "updated": "WEEKLY",
+          "list_image": null,
+          "list_image_width": null,
+          "list_image_height": null,
+          "books": [
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/Killers-Flower-Moon-Osage-Murders/dp/0385534248?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "David Grann",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+              "book_image_width": 326,
+              "book_image_height": 495,
+              "book_review_link": "https://www.nytimes.com/2017/04/28/books/review/killers-of-the-flower-moon-david-grann.html",
+              "contributor": "by David Grann",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:26",
+              "description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0307742482",
+              "primary_isbn13": "9780307742483",
+              "book_uri": "nyt://book/c5c1cd05-cdbc-5e7a-8255-1923ab4b1ceb",
+              "publisher": "Doubleday",
+              "rank": 1,
+              "rank_last_week": 2,
+              "sunday_review_link": "",
+              "title": "KILLERS OF THE FLOWER MOON",
+              "updated_date": "2023-05-31 22:24:50",
+              "weeks_on_list": 78,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/Killers-Flower-Moon-Osage-Murders/dp/0385534248?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780307742483?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780307742483"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FKILLERS%252BOF%252BTHE%252BFLOWER%252BMOON%252FDavid%252BGrann%252F9780307742483&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DKILLERS%252BOF%252BTHE%252BFLOWER%252BMOON%252BDavid%252BGrann"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780307742483&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DKILLERS%2BOF%2BTHE%2BFLOWER%2BMOON"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780307742483%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DKILLERS%2BOF%2BTHE%2BFLOWER%2BMOON%2BDavid%2BGrann%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0385534264?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "David Grann",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+              "book_image_width": 329,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by David Grann",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:26",
+              "description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0385534264",
+              "primary_isbn13": "9780385534260",
+              "book_uri": "nyt://book/92ec85ca-4cff-59b6-94a3-b81002bfc8e6",
+              "publisher": "Doubleday",
+              "rank": 2,
+              "rank_last_week": 1,
+              "sunday_review_link": "",
+              "title": "THE WAGER",
+              "updated_date": "2023-05-31 22:24:50",
+              "weeks_on_list": 6,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0385534264?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780385534260?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385534260"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BWAGER%252FDavid%252BGrann%252F9780385534260&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BWAGER%252BDavid%252BGrann"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780385534260&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BWAGER"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780385534260%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BWAGER%2BDavid%2BGrann%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0593236599?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Peter Attia with Bill Gifford",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+              "book_image_width": 385,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Peter Attia with Bill Gifford",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:26",
+              "description": "A look at recent scientific research on aging and longevity.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0593236599",
+              "primary_isbn13": "9780593236598",
+              "book_uri": "nyt://book/69f6e624-4f30-59d6-8103-816d17ae5ec1",
+              "publisher": "Harmony",
+              "rank": 3,
+              "rank_last_week": 5,
+              "sunday_review_link": "",
+              "title": "OUTLIVE",
+              "updated_date": "2023-05-31 22:24:50",
+              "weeks_on_list": 9,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0593236599?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780593236598?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593236598"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FOUTLIVE%252FPeter%252BAttia%252Bwith%252BBill%252BGifford%252F9780593236598&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DOUTLIVE%252BPeter%252BAttia%252Bwith%252BBill%252BGifford"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593236598&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DOUTLIVE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593236598%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DOUTLIVE%2BPeter%2BAttia%2Bwith%2BBill%2BGifford%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Bessel van der Kolk",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+              "book_image_width": 128,
+              "book_image_height": 193,
+              "book_review_link": "https://www.nytimes.com/2018/10/18/books/review/how-to-rewire-your-traumatized-brain.html",
+              "contributor": "by Bessel van der Kolk",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:26",
+              "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0143127748",
+              "primary_isbn13": "9780143127741",
+              "book_uri": "nyt://book/e3e33e9d-0e67-5fec-b0d2-2ecddc38ce0e",
+              "publisher": "Penguin",
+              "rank": 4,
+              "rank_last_week": 3,
+              "sunday_review_link": "",
+              "title": "THE BODY KEEPS THE SCORE",
+              "updated_date": "2023-05-31 22:24:50",
+              "weeks_on_list": 144,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780143127741?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780143127741"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BBODY%252BKEEPS%252BTHE%252BSCORE%252FBessel%252Bvan%252Bder%252BKolk%252F9780143127741&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BBODY%252BKEEPS%252BTHE%252BSCORE%252BBessel%252Bvan%252Bder%252BKolk"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780143127741&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BBODY%2BKEEPS%2BTHE%2BSCORE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780143127741%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BBODY%2BKEEPS%2BTHE%2BSCORE%2BBessel%2Bvan%2Bder%2BKolk%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/gp/search?index=books&tag=NYTBSREV-20&field-keywords=THE+BOOK+OF+CHARLIE+David+Von+Drehle",
+              "article_chapter_link": "",
+              "author": "David Von Drehle",
+              "book_image": null,
+              "book_image_width": null,
+              "book_image_height": null,
+              "book_review_link": "",
+              "contributor": "by David Von Drehle",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:26",
+              "description": "The Washington Post columnist shares stories and wisdom he learned from a neighbor who was more than a century old.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1476773920",
+              "primary_isbn13": "9781476773926",
+              "book_uri": "nyt://book/bef88a72-14ad-5736-b3ab-1fcf801e80f9",
+              "publisher": "Simon & Schuster",
+              "rank": 5,
+              "rank_last_week": 0,
+              "sunday_review_link": "",
+              "title": "THE BOOK OF CHARLIE",
+              "updated_date": "2023-05-31 22:24:50",
+              "weeks_on_list": 1,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/gp/search?index=books&tag=NYTBSREV-20&field-keywords=THE+BOOK+OF+CHARLIE+David+Von+Drehle"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781476773926?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781476773926"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BBOOK%252BOF%252BCHARLIE%252FDavid%252BVon%252BDrehle%252F9781476773926&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BBOOK%252BOF%252BCHARLIE%252BDavid%252BVon%252BDrehle"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781476773926&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BBOOK%2BOF%2BCHARLIE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781476773926%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BBOOK%2BOF%2BCHARLIE%2BDavid%2BVon%2BDrehle%26aff%3DNYT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "list_id": 1,
+          "list_name": "Hardcover Fiction",
+          "list_name_encoded": "hardcover-fiction",
+          "display_name": "Hardcover Fiction",
+          "updated": "WEEKLY",
+          "list_image": null,
+          "list_image_width": null,
+          "list_image_height": null,
+          "books": [
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/gp/search?index=books&tag=NYTBSREV-20&field-keywords=IDENTITY+Nora+Roberts",
+              "article_chapter_link": "",
+              "author": "Nora Roberts",
+              "book_image": null,
+              "book_image_width": null,
+              "book_image_height": null,
+              "book_review_link": "",
+              "contributor": "by Nora Roberts",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:19",
+              "description": "After her roommate is killed by a con artist, a former Army brat builds a new life at her mother's home in Vermont.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1250284112",
+              "primary_isbn13": "9781250284112",
+              "book_uri": "nyt://book/a7f97071-e5c0-5ff7-b1c9-19d7f5921e61",
+              "publisher": "St. Martin's",
+              "rank": 1,
+              "rank_last_week": 0,
+              "sunday_review_link": "",
+              "title": "IDENTITY",
+              "updated_date": "2023-05-31 22:24:43",
+              "weeks_on_list": 1,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/gp/search?index=books&tag=NYTBSREV-20&field-keywords=IDENTITY+Nora+Roberts"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781250284112?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250284112"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FIDENTITY%252FNora%252BRoberts%252F9781250284112&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DIDENTITY%252BNora%252BRoberts"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250284112&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DIDENTITY"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250284112%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DIDENTITY%2BNora%2BRoberts%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0593441273?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Emily Henry",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593441275.jpg",
+              "book_image_width": 331,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Emily Henry",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:19",
+              "description": "A former couple pretend to be together for the sake of their friends during their annual getaway in Maine.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0593441273",
+              "primary_isbn13": "9780593441275",
+              "book_uri": "nyt://book/9ab3a59a-e572-5452-ae0c-eedeadb05831",
+              "publisher": "Berkley",
+              "rank": 2,
+              "rank_last_week": 2,
+              "sunday_review_link": "",
+              "title": "HAPPY PLACE",
+              "updated_date": "2023-05-31 22:24:43",
+              "weeks_on_list": 5,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0593441273?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780593441275?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593441275"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FHAPPY%252BPLACE%252FEmily%252BHenry%252F9780593441275&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DHAPPY%252BPLACE%252BEmily%252BHenry"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593441275&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DHAPPY%2BPLACE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593441275%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DHAPPY%2BPLACE%2BEmily%2BHenry%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0802162177?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Abraham Verghese",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780802162175.jpg",
+              "book_image_width": 320,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Abraham Verghese",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:19",
+              "description": "Three generations of a family living on South India’s Malabar Coast suffer the loss of a family member by drowning.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0802162177",
+              "primary_isbn13": "9780802162175",
+              "book_uri": "nyt://book/5ebf1d34-4c68-560a-8330-7e65bedaaa1a",
+              "publisher": "Grove",
+              "rank": 3,
+              "rank_last_week": 12,
+              "sunday_review_link": "",
+              "title": "THE COVENANT OF WATER",
+              "updated_date": "2023-05-31 22:24:44",
+              "weeks_on_list": 4,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0802162177?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780802162175?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780802162175"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BCOVENANT%252BOF%252BWATER%252FAbraham%252BVerghese%252F9780802162175&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BCOVENANT%252BOF%252BWATER%252BAbraham%252BVerghese"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780802162175&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BCOVENANT%2BOF%2BWATER"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780802162175%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BCOVENANT%2BOF%2BWATER%2BAbraham%2BVerghese%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/038554734X?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Bonnie Garmus",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385547345.jpg",
+              "book_image_width": 328,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Bonnie Garmus",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:20",
+              "description": "A scientist and single mother living in California in the 1960s becomes a star on a TV cooking show.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "038554734X",
+              "primary_isbn13": "9780385547345",
+              "book_uri": "nyt://book/717e0ead-9782-567d-af27-d9a6cfb1856f",
+              "publisher": "Doubleday",
+              "rank": 4,
+              "rank_last_week": 4,
+              "sunday_review_link": "",
+              "title": "LESSONS IN CHEMISTRY",
+              "updated_date": "2023-05-31 22:24:44",
+              "weeks_on_list": 55,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/038554734X?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780385547345?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385547345"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FLESSONS%252BIN%252BCHEMISTRY%252FBonnie%252BGarmus%252F9780385547345&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DLESSONS%252BIN%252BCHEMISTRY%252BBonnie%252BGarmus"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780385547345&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DLESSONS%2BIN%2BCHEMISTRY"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780385547345%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DLESSONS%2BIN%2BCHEMISTRY%2BBonnie%2BGarmus%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/1649374046?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Rebecca Yarros",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781649374042.jpg",
+              "book_image_width": 309,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Rebecca Yarros",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:20",
+              "description": "Violet Sorrengail is urged by the commanding general, who also is her mother, to become a candidate for the elite dragon riders.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1649374046",
+              "primary_isbn13": "9781649374042",
+              "book_uri": "nyt://book/106c2cf0-7d20-51b1-bad4-91c3ebcd131a",
+              "publisher": "Red Tower",
+              "rank": 5,
+              "rank_last_week": 3,
+              "sunday_review_link": "",
+              "title": "FOURTH WING",
+              "updated_date": "2023-05-31 22:24:44",
+              "weeks_on_list": 4,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/1649374046?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781649374042?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781649374042"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FFOURTH%252BWING%252FRebecca%252BYarros%252F9781649374042&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DFOURTH%252BWING%252BRebecca%252BYarros"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781649374042&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DFOURTH%2BWING"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781649374042%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DFOURTH%2BWING%2BRebecca%2BYarros%26aff%3DNYT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "list_id": 2,
+          "list_name": "Hardcover Nonfiction",
+          "list_name_encoded": "hardcover-nonfiction",
+          "display_name": "Hardcover Nonfiction",
+          "updated": "WEEKLY",
+          "list_image": null,
+          "list_image_width": null,
+          "list_image_height": null,
+          "books": [
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0385534264?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "David Grann",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385534260.jpg",
+              "book_image_width": 329,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by David Grann",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:22",
+              "description": "The survivors of a shipwrecked British vessel on a secret mission during an imperial war with Spain have different accounts of events.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0385534264",
+              "primary_isbn13": "9780385534260",
+              "book_uri": "nyt://book/92ec85ca-4cff-59b6-94a3-b81002bfc8e6",
+              "publisher": "Doubleday",
+              "rank": 1,
+              "rank_last_week": 1,
+              "sunday_review_link": "",
+              "title": "THE WAGER",
+              "updated_date": "2023-05-31 22:24:47",
+              "weeks_on_list": 6,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0385534264?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780385534260?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385534260"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BWAGER%252FDavid%252BGrann%252F9780385534260&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BWAGER%252BDavid%252BGrann"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780385534260&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BWAGER"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780385534260%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BWAGER%2BDavid%2BGrann%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0593236599?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Peter Attia with Bill Gifford",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593236598.jpg",
+              "book_image_width": 385,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Peter Attia with Bill Gifford",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:23",
+              "description": "A look at recent scientific research on aging and longevity.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0593236599",
+              "primary_isbn13": "9780593236598",
+              "book_uri": "nyt://book/69f6e624-4f30-59d6-8103-816d17ae5ec1",
+              "publisher": "Harmony",
+              "rank": 2,
+              "rank_last_week": 2,
+              "sunday_review_link": "",
+              "title": "OUTLIVE",
+              "updated_date": "2023-05-31 22:24:47",
+              "weeks_on_list": 9,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0593236599?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780593236598?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593236598"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FOUTLIVE%252FPeter%252BAttia%252Bwith%252BBill%252BGifford%252F9780593236598&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DOUTLIVE%252BPeter%252BAttia%252Bwith%252BBill%252BGifford"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593236598&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DOUTLIVE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593236598%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DOUTLIVE%2BPeter%2BAttia%2Bwith%2BBill%2BGifford%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/gp/search?index=books&tag=NYTBSREV-20&field-keywords=THE+BOOK+OF+CHARLIE+David+Von+Drehle",
+              "article_chapter_link": "",
+              "author": "David Von Drehle",
+              "book_image": null,
+              "book_image_width": null,
+              "book_image_height": null,
+              "book_review_link": "",
+              "contributor": "by David Von Drehle",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:23",
+              "description": "The Washington Post columnist shares stories and wisdom he learned from a neighbor who was more than a century old.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1476773920",
+              "primary_isbn13": "9781476773926",
+              "book_uri": "nyt://book/bef88a72-14ad-5736-b3ab-1fcf801e80f9",
+              "publisher": "Simon & Schuster",
+              "rank": 3,
+              "rank_last_week": 0,
+              "sunday_review_link": "",
+              "title": "THE BOOK OF CHARLIE",
+              "updated_date": "2023-05-31 22:24:47",
+              "weeks_on_list": 1,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/gp/search?index=books&tag=NYTBSREV-20&field-keywords=THE+BOOK+OF+CHARLIE+David+Von+Drehle"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781476773926?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781476773926"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BBOOK%252BOF%252BCHARLIE%252FDavid%252BVon%252BDrehle%252F9781476773926&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BBOOK%252BOF%252BCHARLIE%252BDavid%252BVon%252BDrehle"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781476773926&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BBOOK%2BOF%2BCHARLIE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781476773926%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BBOOK%2BOF%2BCHARLIE%2BDavid%2BVon%2BDrehle%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/1982185821?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Jennette McCurdy",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781982185824.jpg",
+              "book_image_width": 329,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Jennette McCurdy",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:23",
+              "description": "The actress and filmmaker describes her eating disorders and difficult relationship with her mother.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1982185821",
+              "primary_isbn13": "9781982185824",
+              "book_uri": "nyt://book/be73b1c3-c238-5232-af55-bf70c59cb907",
+              "publisher": "Simon & Schuster",
+              "rank": 4,
+              "rank_last_week": 5,
+              "sunday_review_link": "",
+              "title": "I'M GLAD MY MOM DIED",
+              "updated_date": "2023-05-31 22:24:47",
+              "weeks_on_list": 42,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/1982185821?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781982185824?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982185824"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FI%252527M%252BGLAD%252BMY%252BMOM%252BDIED%252FJennette%252BMcCurdy%252F9781982185824&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DI%252527M%252BGLAD%252BMY%252BMOM%252BDIED%252BJennette%252BMcCurdy"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781982185824&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DI%2527M%2BGLAD%2BMY%2BMOM%2BDIED"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781982185824%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DI%2527M%2BGLAD%2BMY%2BMOM%2BDIED%2BJennette%2BMcCurdy%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0593593804?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Prince Harry",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593593806.jpg",
+              "book_image_width": 329,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Prince Harry",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:23",
+              "description": "The Duke of Sussex details his struggles with the royal family, loss of his mother, service in the British Army and marriage to Meghan Markle.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0593593804",
+              "primary_isbn13": "9780593593806",
+              "book_uri": "nyt://book/f65a1f09-ba88-56d7-8674-390729e19b89",
+              "publisher": "Random House",
+              "rank": 5,
+              "rank_last_week": 3,
+              "sunday_review_link": "",
+              "title": "SPARE",
+              "updated_date": "2023-05-31 22:24:47",
+              "weeks_on_list": 20,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0593593804?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780593593806?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593593806"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FSPARE%252FPrince%252BHarry%252F9780593593806&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DSPARE%252BPrince%252BHarry"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593593806&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DSPARE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593593806%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DSPARE%2BPrince%2BHarry%26aff%3DNYT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "list_id": 17,
+          "list_name": "Trade Fiction Paperback",
+          "list_name_encoded": "trade-fiction-paperback",
+          "display_name": "Paperback Trade Fiction",
+          "updated": "WEEKLY",
+          "list_image": null,
+          "list_image_width": null,
+          "list_image_height": null,
+          "books": [
+            {
+              "age_group": "",
+              "amazon_product_url": "http://www.amazon.com/Ends-Us-Novel-Colleen-Hoover-ebook/dp/B0176M3U10?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Colleen Hoover",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781501110375.jpg",
+              "book_image_width": 319,
+              "book_image_height": 495,
+              "book_review_link": "",
+              "contributor": "by Colleen Hoover",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:22",
+              "description": "A battered wife raised in a violent home attempts to halt the cycle of abuse.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1501110365",
+              "primary_isbn13": "9781501110368",
+              "book_uri": "nyt://book/e2a3545e-e9cb-5828-9d97-50a798a0e4f6",
+              "publisher": "Atria",
+              "rank": 1,
+              "rank_last_week": 1,
+              "sunday_review_link": "",
+              "title": "IT ENDS WITH US",
+              "updated_date": "2023-05-31 22:24:46",
+              "weeks_on_list": 108,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "http://www.amazon.com/Ends-Us-Novel-Colleen-Hoover-ebook/dp/B0176M3U10?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781501110368?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501110368"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FIT%252BENDS%252BWITH%252BUS%252FColleen%252BHoover%252F9781501110368&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DIT%252BENDS%252BWITH%252BUS%252BColleen%252BHoover"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781501110368&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DIT%2BENDS%2BWITH%2BUS"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781501110368%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DIT%2BENDS%2BWITH%2BUS%2BColleen%2BHoover%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/1668001225?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Colleen Hoover",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781668001226.jpg",
+              "book_image_width": 322,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Colleen Hoover",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:22",
+              "description": "In the sequel to “It Ends With Us,” Lily deals with her jealous ex-husband as she reconnects with her first boyfriend.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1668001225",
+              "primary_isbn13": "9781668001226",
+              "book_uri": "nyt://book/3aa85e47-4df9-53ef-9957-a77753d3502c",
+              "publisher": "Atria",
+              "rank": 2,
+              "rank_last_week": 2,
+              "sunday_review_link": "",
+              "title": "IT STARTS WITH US",
+              "updated_date": "2023-05-31 22:24:46",
+              "weeks_on_list": 32,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/1668001225?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781668001226?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668001226"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FIT%252BSTARTS%252BWITH%252BUS%252FColleen%252BHoover%252F9781668001226&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DIT%252BSTARTS%252BWITH%252BUS%252BColleen%252BHoover"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781668001226&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DIT%2BSTARTS%2BWITH%2BUS"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781668001226%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DIT%2BSTARTS%2BWITH%2BUS%2BColleen%2BHoover%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0593438558?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Carley Fortune",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593438558.jpg",
+              "book_image_width": 333,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Carley Fortune",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:22",
+              "description": "A decade after a one-day adventure, Will appears again in Fern’s life at her mother’s lakeside resort.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0593438558",
+              "primary_isbn13": "9780593438558",
+              "book_uri": "nyt://book/f6409475-c210-5baf-beda-d11fba9e9981",
+              "publisher": "Berkley",
+              "rank": 3,
+              "rank_last_week": 3,
+              "sunday_review_link": "",
+              "title": "MEET ME AT THE LAKE",
+              "updated_date": "2023-05-31 22:24:46",
+              "weeks_on_list": 4,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0593438558?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780593438558?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593438558"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FMEET%252BME%252BAT%252BTHE%252BLAKE%252FCarley%252BFortune%252F9780593438558&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DMEET%252BME%252BAT%252BTHE%252BLAKE%252BCarley%252BFortune"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593438558&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DMEET%2BME%2BAT%2BTHE%2BLAKE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593438558%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DMEET%2BME%2BAT%2BTHE%2BLAKE%2BCarley%2BFortune%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/1791392792?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Colleen Hoover",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781791392796.jpg",
+              "book_image_width": 324,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Colleen Hoover",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:22",
+              "description": "Lowen Ashleigh is hired by the husband of an injured writer to complete her popular series and uncovers a horrifying truth.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1538724731",
+              "primary_isbn13": "9781538724736",
+              "book_uri": "nyt://book/013c7729-a1de-5e5c-921a-da43243f9a4a",
+              "publisher": "Grand Central",
+              "rank": 4,
+              "rank_last_week": 4,
+              "sunday_review_link": "",
+              "title": "VERITY",
+              "updated_date": "2023-05-31 22:24:46",
+              "weeks_on_list": 94,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/1791392792?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781538724736?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538724736"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FVERITY%252FColleen%252BHoover%252F9781538724736&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DVERITY%252BColleen%252BHoover"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781538724736&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DVERITY"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781538724736%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DVERITY%2BColleen%2BHoover%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/1501161938?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Taylor Jenkins Reid",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781501161933.jpg",
+              "book_image_width": 315,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Taylor Jenkins Reid",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:22",
+              "description": "A movie icon recounts stories of her loves and career to a struggling magazine writer.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1501161938",
+              "primary_isbn13": "9781501161933",
+              "book_uri": "nyt://book/d9511fac-ee44-5a87-9af7-2cd6a6f8f984",
+              "publisher": "Washington Square/Atria",
+              "rank": 5,
+              "rank_last_week": 5,
+              "sunday_review_link": "",
+              "title": "THE SEVEN HUSBANDS OF EVELYN HUGO",
+              "updated_date": "2023-05-31 22:24:46",
+              "weeks_on_list": 116,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/1501161938?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781501161933?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501161933"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BSEVEN%252BHUSBANDS%252BOF%252BEVELYN%252BHUGO%252FTaylor%252BJenkins%252BReid%252F9781501161933&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BSEVEN%252BHUSBANDS%252BOF%252BEVELYN%252BHUGO%252BTaylor%252BJenkins%252BReid"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781501161933&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BSEVEN%2BHUSBANDS%2BOF%2BEVELYN%2BHUGO"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781501161933%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BSEVEN%2BHUSBANDS%2BOF%2BEVELYN%2BHUGO%2BTaylor%2BJenkins%2BReid%26aff%3DNYT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "list_id": 4,
+          "list_name": "Paperback Nonfiction",
+          "list_name_encoded": "paperback-nonfiction",
+          "display_name": "Paperback Nonfiction",
+          "updated": "WEEKLY",
+          "list_image": null,
+          "list_image_width": null,
+          "list_image_height": null,
+          "books": [
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/Killers-Flower-Moon-Osage-Murders/dp/0385534248?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "David Grann",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385534246.jpg",
+              "book_image_width": 326,
+              "book_image_height": 495,
+              "book_review_link": "https://www.nytimes.com/2017/04/28/books/review/killers-of-the-flower-moon-david-grann.html",
+              "contributor": "by David Grann",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:24",
+              "description": "The story of a murder spree in 1920s Oklahoma that targeted Osage Indians, whose lands contained oil. The fledgling F.B.I. intervened, ineffectively.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0307742482",
+              "primary_isbn13": "9780307742483",
+              "book_uri": "nyt://book/c5c1cd05-cdbc-5e7a-8255-1923ab4b1ceb",
+              "publisher": "Vintage",
+              "rank": 1,
+              "rank_last_week": 2,
+              "sunday_review_link": "",
+              "title": "KILLERS OF THE FLOWER MOON",
+              "updated_date": "2023-05-31 22:24:48",
+              "weeks_on_list": 117,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/Killers-Flower-Moon-Osage-Murders/dp/0385534248?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780307742483?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780307742483"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FKILLERS%252BOF%252BTHE%252BFLOWER%252BMOON%252FDavid%252BGrann%252F9780307742483&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DKILLERS%252BOF%252BTHE%252BFLOWER%252BMOON%252BDavid%252BGrann"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780307742483&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DKILLERS%2BOF%2BTHE%2BFLOWER%2BMOON"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780307742483%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DKILLERS%2BOF%2BTHE%2BFLOWER%2BMOON%2BDavid%2BGrann%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Bessel van der Kolk",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780670785933.jpg",
+              "book_image_width": 128,
+              "book_image_height": 193,
+              "book_review_link": "https://www.nytimes.com/2018/10/18/books/review/how-to-rewire-your-traumatized-brain.html",
+              "contributor": "by Bessel van der Kolk",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:24",
+              "description": "How trauma affects the body and mind, and innovative treatments for recovery.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0143127748",
+              "primary_isbn13": "9780143127741",
+              "book_uri": "nyt://book/e3e33e9d-0e67-5fec-b0d2-2ecddc38ce0e",
+              "publisher": "Penguin",
+              "rank": 2,
+              "rank_last_week": 1,
+              "sunday_review_link": "",
+              "title": "THE BODY KEEPS THE SCORE",
+              "updated_date": "2023-05-31 22:24:48",
+              "weeks_on_list": 240,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "http://www.amazon.com/The-Body-Keeps-Score-Healing/dp/0670785938?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780143127741?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780143127741"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BBODY%252BKEEPS%252BTHE%252BSCORE%252FBessel%252Bvan%252Bder%252BKolk%252F9780143127741&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BBODY%252BKEEPS%252BTHE%252BSCORE%252BBessel%252Bvan%252Bder%252BKolk"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780143127741&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BBODY%2BKEEPS%2BTHE%2BSCORE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780143127741%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BBODY%2BKEEPS%2BTHE%2BSCORE%2BBessel%2Bvan%2Bder%2BKolk%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0525657746?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Michelle Zauner",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780525657743.jpg",
+              "book_image_width": 338,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Michelle Zauner",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:24",
+              "description": "The daughter of a Korean mother and Jewish American father, and leader of the indie rock project Japanese Breakfast, describes creating her own identity after losing her mother to cancer.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1984898957",
+              "primary_isbn13": "9781984898951",
+              "book_uri": "nyt://book/520cb070-10ce-5d43-9b0c-e77f57d84a8d",
+              "publisher": "Vintage",
+              "rank": 3,
+              "rank_last_week": 4,
+              "sunday_review_link": "",
+              "title": "CRYING IN H MART",
+              "updated_date": "2023-05-31 22:24:48",
+              "weeks_on_list": 9,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0525657746?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781984898951?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984898951"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FCRYING%252BIN%252BH%252BMART%252FMichelle%252BZauner%252F9781984898951&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DCRYING%252BIN%252BH%252BMART%252BMichelle%252BZauner"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781984898951&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DCRYING%2BIN%2BH%2BMART"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781984898951%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DCRYING%2BIN%2BH%2BMART%2BMichelle%2BZauner%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0063112361?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Jonathan Freedland",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063112360.jpg",
+              "book_image_width": 332,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Jonathan Freedland",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:24",
+              "description": "Rudolf Vrba, who became one of the first Jews to escape from Auschwitz, warned others about the death camp.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0063112361",
+              "primary_isbn13": "9780063112360",
+              "book_uri": "nyt://book/92040f7d-a902-57f0-ae7f-166447a440a1",
+              "publisher": "Harper",
+              "rank": 4,
+              "rank_last_week": 6,
+              "sunday_review_link": "",
+              "title": "THE ESCAPE ARTIST",
+              "updated_date": "2023-05-31 22:24:48",
+              "weeks_on_list": 5,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0063112361?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780063112360?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063112360"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BESCAPE%252BARTIST%252FJonathan%252BFreedland%252F9780063112360&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BESCAPE%252BARTIST%252BJonathan%252BFreedland"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780063112360&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BESCAPE%2BARTIST"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780063112360%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BESCAPE%2BARTIST%2BJonathan%2BFreedland%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge/dp/1571313567?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Robin Wall Kimmerer",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781571313560.jpg",
+              "book_image_width": 321,
+              "book_image_height": 495,
+              "book_review_link": "",
+              "contributor": "by Robin Wall Kimmerer",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:24",
+              "description": "A botanist and member of the Citizen Potawatomi Nation espouses having an understanding and appreciation of plants and animals.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1571313567",
+              "primary_isbn13": "9781571313560",
+              "book_uri": "nyt://book/194ea111-42ad-5795-9fb5-3e155ffa5e79",
+              "publisher": "Milkweed Editions",
+              "rank": 5,
+              "rank_last_week": 5,
+              "sunday_review_link": "",
+              "title": "BRAIDING SWEETGRASS",
+              "updated_date": "2023-05-31 22:24:48",
+              "weeks_on_list": 163,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/Braiding-Sweetgrass-Indigenous-Scientific-Knowledge/dp/1571313567?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781571313560?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781571313560"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FBRAIDING%252BSWEETGRASS%252FRobin%252BWall%252BKimmerer%252F9781571313560&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DBRAIDING%252BSWEETGRASS%252BRobin%252BWall%252BKimmerer"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781571313560&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DBRAIDING%2BSWEETGRASS"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781571313560%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DBRAIDING%2BSWEETGRASS%2BRobin%2BWall%2BKimmerer%26aff%3DNYT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "list_id": 24,
+          "list_name": "Advice How-To and Miscellaneous",
+          "list_name_encoded": "advice-how-to-and-miscellaneous",
+          "display_name": "Advice, How-To & Miscellaneous",
+          "updated": "WEEKLY",
+          "list_image": null,
+          "list_image_width": null,
+          "list_image_height": null,
+          "books": [
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "James Clear",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780735211292.jpg",
+              "book_image_width": 328,
+              "book_image_height": 495,
+              "book_review_link": "",
+              "contributor": "by James Clear",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:23",
+              "description": "",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0735211299",
+              "primary_isbn13": "9780735211292",
+              "book_uri": "nyt://book/0398a355-c032-534e-a0af-647b06f0840d",
+              "publisher": "Avery",
+              "rank": 1,
+              "rank_last_week": 2,
+              "sunday_review_link": "",
+              "title": "ATOMIC HABITS",
+              "updated_date": "2023-05-31 22:24:47",
+              "weeks_on_list": 183,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780735211292?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735211292"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FATOMIC%252BHABITS%252FJames%252BClear%252F9780735211292&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DATOMIC%252BHABITS%252BJames%252BClear"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780735211292&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DATOMIC%2BHABITS"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780735211292%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DATOMIC%2BHABITS%2BJames%2BClear%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0062820176?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Joanna Gaines",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780062820174.jpg",
+              "book_image_width": 396,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Joanna Gaines",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:23",
+              "description": "",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0062820176",
+              "primary_isbn13": "9780062820174",
+              "book_uri": "nyt://book/95d8c42e-e90e-53e6-a7ec-c2fb3305a933",
+              "publisher": "Morrow",
+              "rank": 2,
+              "rank_last_week": 1,
+              "sunday_review_link": "",
+              "title": "MAGNOLIA TABLE, VOL. 3",
+              "updated_date": "2023-05-31 22:24:48",
+              "weeks_on_list": 4,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0062820176?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780062820174?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062820174"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FMAGNOLIA%252BTABLE%25252C%252BVOL.%252B3%252FJoanna%252BGaines%252F9780062820174&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DMAGNOLIA%252BTABLE%25252C%252BVOL.%252B3%252BJoanna%252BGaines"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780062820174&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DMAGNOLIA%2BTABLE%252C%2BVOL.%2B3"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780062820174%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DMAGNOLIA%2BTABLE%252C%2BVOL.%2B3%2BJoanna%2BGaines%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/gp/search?index=books&tag=NYTBSREV-20&field-keywords=THE+SHIFT+Tinx",
+              "article_chapter_link": "",
+              "author": "Tinx",
+              "book_image": null,
+              "book_image_width": null,
+              "book_image_height": null,
+              "book_review_link": "",
+              "contributor": "by Tinx",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:23",
+              "description": "",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1668007630",
+              "primary_isbn13": "9781668007631",
+              "book_uri": "nyt://book/67025b92-8be8-5141-b2f5-b66a0fc891cb",
+              "publisher": "Simon & Schuster",
+              "rank": 3,
+              "rank_last_week": 0,
+              "sunday_review_link": "",
+              "title": "THE SHIFT",
+              "updated_date": "2023-05-31 22:24:48",
+              "weeks_on_list": 1,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/gp/search?index=books&tag=NYTBSREV-20&field-keywords=THE+SHIFT+Tinx"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781668007631?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668007631"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BSHIFT%252FTinx%252F9781668007631&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BSHIFT%252BTinx"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781668007631&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BSHIFT"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781668007631%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BSHIFT%2BTinx%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0593652886?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Rick Rubin with Neil Strauss",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593652886.jpg",
+              "book_image_width": 341,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Rick Rubin with Neil Strauss",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:23",
+              "description": "",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0593652886",
+              "primary_isbn13": "9780593652886",
+              "book_uri": "nyt://book/da28ca16-1ebd-55aa-aba3-fde278604a82",
+              "publisher": "Penguin Press",
+              "rank": 4,
+              "rank_last_week": 3,
+              "sunday_review_link": "",
+              "title": "THE CREATIVE ACT",
+              "updated_date": "2023-05-31 22:24:48",
+              "weeks_on_list": 19,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0593652886?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780593652886?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593652886"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BCREATIVE%252BACT%252FRick%252BRubin%252Bwith%252BNeil%252BStrauss%252F9780593652886&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BCREATIVE%252BACT%252BRick%252BRubin%252Bwith%252BNeil%252BStrauss"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593652886&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BCREATIVE%2BACT"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593652886%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BCREATIVE%2BACT%2BRick%2BRubin%2Bwith%2BNeil%2BStrauss%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/Boy-Mole-Fox-Horse/dp/0062976583?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Charlie Mackesy",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780062976581.jpg",
+              "book_image_width": 330,
+              "book_image_height": 445,
+              "book_review_link": "",
+              "contributor": "by Charlie Mackesy",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:23",
+              "description": "",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0062976583",
+              "primary_isbn13": "9780062976581",
+              "book_uri": "nyt://book/858fb0b9-07d7-5b8a-b3de-cdcf6ea6fe7a",
+              "publisher": "HarperOne",
+              "rank": 5,
+              "rank_last_week": 4,
+              "sunday_review_link": "",
+              "title": "THE BOY, THE MOLE, THE FOX AND THE HORSE",
+              "updated_date": "2023-05-31 22:24:48",
+              "weeks_on_list": 182,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/Boy-Mole-Fox-Horse/dp/0062976583?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780062976581?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062976581"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BBOY%25252C%252BTHE%252BMOLE%25252C%252BTHE%252BFOX%252BAND%252BTHE%252BHORSE%252FCharlie%252BMackesy%252F9780062976581&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BBOY%25252C%252BTHE%252BMOLE%25252C%252BTHE%252BFOX%252BAND%252BTHE%252BHORSE%252BCharlie%252BMackesy"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780062976581&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BBOY%252C%2BTHE%2BMOLE%252C%2BTHE%2BFOX%2BAND%2BTHE%2BHORSE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780062976581%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BBOY%252C%2BTHE%2BMOLE%252C%2BTHE%2BFOX%2BAND%2BTHE%2BHORSE%2BCharlie%2BMackesy%26aff%3DNYT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "list_id": 13,
+          "list_name": "Childrens Middle Grade Hardcover",
+          "list_name_encoded": "childrens-middle-grade-hardcover",
+          "display_name": "Children’s Middle Grade Hardcover",
+          "updated": "WEEKLY",
+          "list_image": null,
+          "list_image_width": null,
+          "list_image_height": null,
+          "books": [
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/1368081150?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Rick Riordan and Mark Oshiro",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781368081153.jpg",
+              "book_image_width": 331,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Rick Riordan and Mark Oshiro",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:21",
+              "description": "The demigods Will and Nico embark on a dangerous journey to the Underworld to rescue an old friend.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1368081150",
+              "primary_isbn13": "9781368081153",
+              "book_uri": "nyt://book/8384c64a-d0de-5285-9132-8f16cc7b085f",
+              "publisher": "Disney Hyperion",
+              "rank": 1,
+              "rank_last_week": 1,
+              "sunday_review_link": "",
+              "title": "THE SUN AND THE STAR",
+              "updated_date": "2023-05-31 22:24:45",
+              "weeks_on_list": 4,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/1368081150?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781368081153?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781368081153"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BSUN%252BAND%252BTHE%252BSTAR%252FRick%252BRiordan%252Band%252BMark%252BOshiro%252F9781368081153&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BSUN%252BAND%252BTHE%252BSTAR%252BRick%252BRiordan%252Band%252BMark%252BOshiro"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781368081153&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BSUN%2BAND%2BTHE%2BSTAR"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781368081153%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BSUN%2BAND%2BTHE%2BSTAR%2BRick%2BRiordan%2Band%2BMark%2BOshiro%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "http://www.amazon.com/Wonder-R-J-Palacio-ebook/dp/B0051ANPZQ?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "R.J. Palacio",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780375899881.jpg",
+              "book_image_width": 329,
+              "book_image_height": 495,
+              "book_review_link": "",
+              "contributor": "by R.J. Palacio",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:21",
+              "description": "A boy with a facial deformity starts school.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0375869026",
+              "primary_isbn13": "9780375869020",
+              "book_uri": "nyt://book/ae6bd2cf-a5d7-535a-99dd-ca8e283c2b01",
+              "publisher": "Knopf",
+              "rank": 2,
+              "rank_last_week": 2,
+              "sunday_review_link": "https://www.nytimes.com/2012/04/08/books/review/wonder-by-r-j-palacio.html",
+              "title": "WONDER",
+              "updated_date": "2023-05-31 22:24:45",
+              "weeks_on_list": 398,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "http://www.amazon.com/Wonder-R-J-Palacio-ebook/dp/B0051ANPZQ?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780375869020?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780375869020"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FWONDER%252FR.J.%252BPalacio%252F9780375869020&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DWONDER%252BR.J.%252BPalacio"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780375869020&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DWONDER"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780375869020%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DWONDER%2BR.J.%2BPalacio%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Alan Gratz",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780545880831.jpg",
+              "book_image_width": 327,
+              "book_image_height": 495,
+              "book_review_link": "",
+              "contributor": "by Alan Gratz",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:21",
+              "description": "Three children in three different conflicts look for safe haven.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0545880831",
+              "primary_isbn13": "9780545880831",
+              "book_uri": "nyt://book/32519cc3-8ee6-5bc8-9a1a-563502a5d2ad",
+              "publisher": "Scholastic",
+              "rank": 3,
+              "rank_last_week": 3,
+              "sunday_review_link": "",
+              "title": "REFUGEE",
+              "updated_date": "2023-05-31 22:24:45",
+              "weeks_on_list": 222,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/Refugee-Alan-Gratz/dp/0545880831?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780545880831?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780545880831"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FREFUGEE%252FAlan%252BGratz%252F9780545880831&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DREFUGEE%252BAlan%252BGratz"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780545880831&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DREFUGEE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780545880831%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DREFUGEE%2BAlan%2BGratz%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0593533232?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Beth Lincoln.",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593533239.jpg",
+              "book_image_width": 331,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Beth Lincoln. Illustrated by Claire Powell",
+              "contributor_note": "Illustrated by Claire Powell",
+              "created_date": "2023-05-31 22:20:21",
+              "description": "Shenanigan Swift investigates murders during a family reunion treasure hunt.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0593533232",
+              "primary_isbn13": "9780593533239",
+              "book_uri": "nyt://book/43f173db-0104-5673-aa7c-23dc6a71472d",
+              "publisher": "Dutton",
+              "rank": 4,
+              "rank_last_week": 5,
+              "sunday_review_link": "",
+              "title": "THE SWIFTS",
+              "updated_date": "2023-05-31 22:24:45",
+              "weeks_on_list": 10,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0593533232?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780593533239?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593533239"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BSWIFTS%252FBeth%252BLincoln.%252F9780593533239&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BSWIFTS%252BBeth%252BLincoln."
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593533239&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BSWIFTS"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593533239%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BSWIFTS%2BBeth%2BLincoln.%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/1524764205?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Dave Eggers. Illustrations  Shawn Harris",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781524764203.jpg",
+              "book_image_width": 409,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Dave Eggers. Illustrations by Shawn Harris",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:21",
+              "description": "A dog who serves as the eyes for three bison in a park enclosure devises a plan to free them.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1952119456",
+              "primary_isbn13": "9781952119453",
+              "book_uri": "nyt://book/c355bd1a-8dd8-504f-98f6-104cdea0c044",
+              "publisher": "Knopf, McSweeney's",
+              "rank": 5,
+              "rank_last_week": 4,
+              "sunday_review_link": "",
+              "title": "THE EYES AND THE IMPOSSIBLE",
+              "updated_date": "2023-05-31 22:24:45",
+              "weeks_on_list": 3,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/1524764205?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781952119453?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781952119453"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BEYES%252BAND%252BTHE%252BIMPOSSIBLE%252FDave%252BEggers.%252BIllustrations%252B%252BShawn%252BHarris%252F9781952119453&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BEYES%252BAND%252BTHE%252BIMPOSSIBLE%252BDave%252BEggers.%252BIllustrations%252B%252BShawn%252BHarris"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781952119453&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BEYES%2BAND%2BTHE%2BIMPOSSIBLE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781952119453%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BEYES%2BAND%2BTHE%2BIMPOSSIBLE%2BDave%2BEggers.%2BIllustrations%2B%2BShawn%2BHarris%26aff%3DNYT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "list_id": 7,
+          "list_name": "Picture Books",
+          "list_name_encoded": "picture-books",
+          "display_name": "Children’s Picture Books",
+          "updated": "WEEKLY",
+          "list_image": null,
+          "list_image_width": null,
+          "list_image_height": null,
+          "books": [
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/1492667838?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Gregory E. Lang.",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781492667834.jpg",
+              "book_image_width": 500,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Gregory E. Lang. Illustrated by Sydney Hanson",
+              "contributor_note": "Illustrated by Sydney Hanson",
+              "created_date": "2023-05-31 22:20:25",
+              "description": "A father's love for his daughter.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1492667838",
+              "primary_isbn13": "9781492667834",
+              "book_uri": "nyt://book/036420d0-5c18-5df5-9b89-bb8f8cce56cc",
+              "publisher": "Sourcebooks Jabberwocky",
+              "rank": 1,
+              "rank_last_week": 0,
+              "sunday_review_link": "",
+              "title": "WHY A DAUGHTER NEEDS A DAD",
+              "updated_date": "2023-05-31 22:24:49",
+              "weeks_on_list": 9,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/1492667838?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781492667834?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781492667834"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FWHY%252BA%252BDAUGHTER%252BNEEDS%252BA%252BDAD%252FGregory%252BE.%252BLang.%252F9781492667834&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DWHY%252BA%252BDAUGHTER%252BNEEDS%252BA%252BDAD%252BGregory%252BE.%252BLang."
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781492667834&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DWHY%2BA%2BDAUGHTER%2BNEEDS%2BA%2BDAD"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781492667834%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DWHY%2BA%2BDAUGHTER%2BNEEDS%2BA%2BDAD%2BGregory%2BE.%2BLang.%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "http://www.amazon.com/Wish-You-More-Krouse-Rosenthal/dp/1452126992?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Amy Krouse Rosenthal.",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781452126999.jpg",
+              "book_image_width": 330,
+              "book_image_height": 330,
+              "book_review_link": "",
+              "contributor": "by Amy Krouse Rosenthal. Illustrated by Tom Lichtenheld",
+              "contributor_note": "Illustrated by Tom Lichtenheld",
+              "created_date": "2023-05-31 22:20:25",
+              "description": "A bounty of good wishes.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1452126992",
+              "primary_isbn13": "9781452126999",
+              "book_uri": "nyt://book/8ebc86f7-f391-5225-bf8c-23b4556889f7",
+              "publisher": "Chronicle",
+              "rank": 2,
+              "rank_last_week": 1,
+              "sunday_review_link": "",
+              "title": "I WISH YOU MORE",
+              "updated_date": "2023-05-31 22:24:49",
+              "weeks_on_list": 83,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "http://www.amazon.com/Wish-You-More-Krouse-Rosenthal/dp/1452126992?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781452126999?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781452126999"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FI%252BWISH%252BYOU%252BMORE%252FAmy%252BKrouse%252BRosenthal.%252F9781452126999&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DI%252BWISH%252BYOU%252BMORE%252BAmy%252BKrouse%252BRosenthal."
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781452126999&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DI%2BWISH%2BYOU%2BMORE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781452126999%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DI%2BWISH%2BYOU%2BMORE%2BAmy%2BKrouse%2BRosenthal.%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/Because-Had-Teacher-teachers-everywhere/dp/1943200084?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Kobi Yamada.",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781943200085.jpg",
+              "book_image_width": 330,
+              "book_image_height": 330,
+              "book_review_link": "",
+              "contributor": "by Kobi Yamada. Illustrated by Natalie Russell",
+              "contributor_note": "Illustrated by Natalie Russell",
+              "created_date": "2023-05-31 22:20:25",
+              "description": "An ode to teachers.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1943200084",
+              "primary_isbn13": "9781943200085",
+              "book_uri": "nyt://book/b4c3cb4e-6aa2-5cbf-b314-48274c249dc3",
+              "publisher": "Compendium",
+              "rank": 3,
+              "rank_last_week": 7,
+              "sunday_review_link": "",
+              "title": "BECAUSE I HAD A TEACHER",
+              "updated_date": "2023-05-31 22:24:49",
+              "weeks_on_list": 15,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/Because-Had-Teacher-teachers-everywhere/dp/1943200084?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781943200085?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781943200085"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FBECAUSE%252BI%252BHAD%252BA%252BTEACHER%252FKobi%252BYamada.%252F9781943200085&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DBECAUSE%252BI%252BHAD%252BA%252BTEACHER%252BKobi%252BYamada."
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781943200085&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DBECAUSE%2BI%2BHAD%2BA%2BTEACHER"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781943200085%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DBECAUSE%2BI%2BHAD%2BA%2BTEACHER%2BKobi%2BYamada.%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "http://www.amazon.com/The-Wonderful-Things-You-Will/dp/0385376715?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Emily Winfield Martin",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385376716.jpg",
+              "book_image_width": 330,
+              "book_image_height": 347,
+              "book_review_link": "",
+              "contributor": "by Emily Winfield Martin",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:25",
+              "description": "A celebration of future possibilities.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0385376715",
+              "primary_isbn13": "9780385376716",
+              "book_uri": "nyt://book/36cac861-60d3-511f-ba6d-edc88c6e938e",
+              "publisher": "Random House",
+              "rank": 4,
+              "rank_last_week": 2,
+              "sunday_review_link": "",
+              "title": "THE WONDERFUL THINGS YOU WILL BE",
+              "updated_date": "2023-05-31 22:24:49",
+              "weeks_on_list": 354,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "http://www.amazon.com/The-Wonderful-Things-You-Will/dp/0385376715?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780385376716?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385376716"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BWONDERFUL%252BTHINGS%252BYOU%252BWILL%252BBE%252FEmily%252BWinfield%252BMartin%252F9780385376716&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BWONDERFUL%252BTHINGS%252BYOU%252BWILL%252BBE%252BEmily%252BWinfield%252BMartin"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780385376716&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BWONDERFUL%2BTHINGS%2BYOU%2BWILL%2BBE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780385376716%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BWONDERFUL%2BTHINGS%2BYOU%2BWILL%2BBE%2BEmily%2BWinfield%2BMartin%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "http://www.amazon.com/The-Crayons-Quit-Drew-Daywalt/dp/0399255370?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Drew Daywalt.",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780399255373.jpg",
+              "book_image_width": 330,
+              "book_image_height": 332,
+              "book_review_link": "",
+              "contributor": "by Drew Daywalt. Illustrated by Oliver Jeffers",
+              "contributor_note": "Illustrated by Oliver Jeffers",
+              "created_date": "2023-05-31 22:20:25",
+              "description": "Problems arise when Duncan’s crayons revolt.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0399255370",
+              "primary_isbn13": "9780399255373",
+              "book_uri": "nyt://book/e42bd6ff-8143-53b3-b574-c80553973559",
+              "publisher": "Philomel",
+              "rank": 5,
+              "rank_last_week": 4,
+              "sunday_review_link": "https://www.nytimes.com/2013/08/25/books/review/henris-scissors-by-jeanette-winter-and-more.html",
+              "title": "THE DAY THE CRAYONS QUIT",
+              "updated_date": "2023-05-31 22:24:49",
+              "weeks_on_list": 362,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "http://www.amazon.com/The-Crayons-Quit-Drew-Daywalt/dp/0399255370?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780399255373?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399255373"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BDAY%252BTHE%252BCRAYONS%252BQUIT%252FDrew%252BDaywalt.%252F9780399255373&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BDAY%252BTHE%252BCRAYONS%252BQUIT%252BDrew%252BDaywalt."
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780399255373&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BDAY%2BTHE%2BCRAYONS%2BQUIT"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780399255373%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BDAY%2BTHE%2BCRAYONS%2BQUIT%2BDrew%2BDaywalt.%26aff%3DNYT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "list_id": 10,
+          "list_name": "Series Books",
+          "list_name_encoded": "series-books",
+          "display_name": "Children’s Series",
+          "updated": "WEEKLY",
+          "list_image": null,
+          "list_image_width": null,
+          "list_image_height": null,
+          "books": [
+            {
+              "age_group": "",
+              "amazon_product_url": "http://www.amazon.com/Diary-Wimpy-Kid-Hard-Luck/dp/1419711326?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "and   Jeff Kinney",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781419711329.jpg",
+              "book_image_width": 330,
+              "book_image_height": 484,
+              "book_review_link": "",
+              "contributor": "written and illustrated by Jeff Kinney",
+              "contributor_note": "written and illustrated by Jeff Kinney",
+              "created_date": "2023-05-31 22:20:20",
+              "description": "The travails and challenges of adolescence.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "141976294X",
+              "primary_isbn13": "9781419762949",
+              "book_uri": "nyt://book/cb1d1f95-72fb-51ba-a5d1-fb54457d7ad9",
+              "publisher": "Amulet",
+              "rank": 1,
+              "rank_last_week": 1,
+              "sunday_review_link": "",
+              "title": "DIARY OF A WIMPY KID",
+              "updated_date": "2023-05-31 22:24:44",
+              "weeks_on_list": 741,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "http://www.amazon.com/Diary-Wimpy-Kid-Hard-Luck/dp/1419711326?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781419762949?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419762949"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FDIARY%252BOF%252BA%252BWIMPY%252BKID%252Fand%252B%252B%252BJeff%252BKinney%252F9781419762949&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DDIARY%252BOF%252BA%252BWIMPY%252BKID%252Band%252B%252B%252BJeff%252BKinney"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781419762949&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DDIARY%2BOF%2BA%2BWIMPY%2BKID"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781419762949%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DDIARY%2BOF%2BA%2BWIMPY%2BKID%2Band%2B%2B%2BJeff%2BKinney%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0593379853?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Holly Jackson",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593379851.jpg",
+              "book_image_width": 331,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Holly Jackson",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:20",
+              "description": "Pippa Fitz-Amobi solves murderous crimes.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1984896393",
+              "primary_isbn13": "9781984896391",
+              "book_uri": "nyt://book/494423b3-84b1-5f41-ae97-b525e4a5245c",
+              "publisher": "Delacorte",
+              "rank": 2,
+              "rank_last_week": 2,
+              "sunday_review_link": "",
+              "title": "A GOOD GIRL'S GUIDE TO MURDER",
+              "updated_date": "2023-05-31 22:24:44",
+              "weeks_on_list": 87,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0593379853?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781984896391?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984896391"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FA%252BGOOD%252BGIRL%252527S%252BGUIDE%252BTO%252BMURDER%252FHolly%252BJackson%252F9781984896391&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DA%252BGOOD%252BGIRL%252527S%252BGUIDE%252BTO%252BMURDER%252BHolly%252BJackson"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781984896391&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DA%2BGOOD%2BGIRL%2527S%2BGUIDE%2BTO%2BMURDER"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781984896391%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DA%2BGOOD%2BGIRL%2527S%2BGUIDE%2BTO%2BMURDER%2BHolly%2BJackson%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0063080087?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Katherine Applegate",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063080089.jpg",
+              "book_image_width": 352,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Katherine Applegate",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:20",
+              "description": "The stories of Ivan, Bob and Ruby.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0063080087",
+              "primary_isbn13": "9780063080089",
+              "book_uri": "nyt://book/88f976c7-8212-52dc-8ff6-c5b0068c862e",
+              "publisher": "HarperCollins",
+              "rank": 3,
+              "rank_last_week": 3,
+              "sunday_review_link": "",
+              "title": "THE ONE AND ONLY",
+              "updated_date": "2023-05-31 22:24:44",
+              "weeks_on_list": 4,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0063080087?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780063080089?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063080089"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BONE%252BAND%252BONLY%252FKatherine%252BApplegate%252F9780063080089&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BONE%252BAND%252BONLY%252BKatherine%252BApplegate"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780063080089&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BONE%2BAND%2BONLY"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780063080089%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BONE%2BAND%2BONLY%2BKatherine%2BApplegate%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "http://www.amazon.com/Well-Always-Summer-Turned-Pretty/dp/1416995587?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Jenny Han",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781416995586.jpg",
+              "book_image_width": 266,
+              "book_image_height": 400,
+              "book_review_link": "",
+              "contributor": "by Jenny Han",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:20",
+              "description": "A beach house, summer love and enduring friendships.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1416968296",
+              "primary_isbn13": "9781416968290",
+              "book_uri": "nyt://book/b2a63312-5fe9-57ac-a6d8-bdd2698762f3",
+              "publisher": "Simon & Schuster",
+              "rank": 4,
+              "rank_last_week": 5,
+              "sunday_review_link": "",
+              "title": "THE SUMMER I TURNED PRETTY TRILOGY",
+              "updated_date": "2023-05-31 22:24:44",
+              "weeks_on_list": 58,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "http://www.amazon.com/Well-Always-Summer-Turned-Pretty/dp/1416995587?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781416968290?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781416968290"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BSUMMER%252BI%252BTURNED%252BPRETTY%252BTRILOGY%252FJenny%252BHan%252F9781416968290&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BSUMMER%252BI%252BTURNED%252BPRETTY%252BTRILOGY%252BJenny%252BHan"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781416968290&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BSUMMER%2BI%2BTURNED%2BPRETTY%2BTRILOGY"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781416968290%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BSUMMER%2BI%2BTURNED%2BPRETTY%2BTRILOGY%2BJenny%2BHan%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "http://www.amazon.com/Mockingjay-Final-Book-Hunger-Games/dp/0545663261?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Suzanne Collins",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780545663267.jpg",
+              "book_image_width": 322,
+              "book_image_height": 495,
+              "book_review_link": "",
+              "contributor": "by Suzanne Collins",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:20",
+              "description": "In a dystopia, a girl fights for survival on live TV.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1338635174",
+              "primary_isbn13": "9781338635171",
+              "book_uri": "nyt://book/6023bfea-e267-5aca-8a56-2af3eba0439e",
+              "publisher": "Scholastic",
+              "rank": 5,
+              "rank_last_week": 4,
+              "sunday_review_link": "",
+              "title": "THE HUNGER GAMES",
+              "updated_date": "2023-05-31 22:24:45",
+              "weeks_on_list": 277,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "http://www.amazon.com/Mockingjay-Final-Book-Hunger-Games/dp/0545663261?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781338635171?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781338635171"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BHUNGER%252BGAMES%252FSuzanne%252BCollins%252F9781338635171&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BHUNGER%252BGAMES%252BSuzanne%252BCollins"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781338635171&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BHUNGER%2BGAMES"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781338635171%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BHUNGER%2BGAMES%2BSuzanne%2BCollins%26aff%3DNYT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "list_id": 14,
+          "list_name": "Young Adult Hardcover",
+          "list_name_encoded": "young-adult-hardcover",
+          "display_name": "Young Adult Hardcover",
+          "updated": "WEEKLY",
+          "list_image": null,
+          "list_image_width": null,
+          "list_image_height": null,
+          "books": [
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/1338863428?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Alice Oseman",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781339016238.jpg",
+              "book_image_width": 333,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Alice Oseman",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:21",
+              "description": "Tori Spring is determined to find out who's behind the blog called Solitaire, which has caused serious pranks at her school.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1338863428",
+              "primary_isbn13": "9781338863420",
+              "book_uri": "nyt://book/5c1b7a21-c152-51d2-af9e-fb641e4f90e5",
+              "publisher": "Scholastic",
+              "rank": 1,
+              "rank_last_week": 1,
+              "sunday_review_link": "",
+              "title": "SOLITAIRE",
+              "updated_date": "2023-05-31 22:24:45",
+              "weeks_on_list": 4,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/1338863428?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781338863420?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781338863420"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FSOLITAIRE%252FAlice%252BOseman%252F9781338863420&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DSOLITAIRE%252BAlice%252BOseman"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781338863420&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DSOLITAIRE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781338863420%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DSOLITAIRE%2BAlice%2BOseman%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Holly Jackson",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593374160.jpg",
+              "book_image_width": 331,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Holly Jackson",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:21",
+              "description": "Six friends on a spring break road trip in an R.V. are the target of a sniper.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0593374169",
+              "primary_isbn13": "9780593374160",
+              "book_uri": "nyt://book/19555aab-32c6-52d2-9781-310810d0dd6f",
+              "publisher": "Delacorte",
+              "rank": 2,
+              "rank_last_week": 2,
+              "sunday_review_link": "",
+              "title": "FIVE SURVIVE",
+              "updated_date": "2023-05-31 22:24:45",
+              "weeks_on_list": 26,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0593374169?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780593374160?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593374160"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FFIVE%252BSURVIVE%252FHolly%252BJackson%252F9780593374160&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DFIVE%252BSURVIVE%252BHolly%252BJackson"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593374160&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DFIVE%2BSURVIVE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593374160%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DFIVE%2BSURVIVE%2BHolly%2BJackson%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/1338885103?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Alice Oseman",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781338885101.jpg",
+              "book_image_width": 333,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Alice Oseman",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:21",
+              "description": "Nick and Charlie question whether their love is strong enough to survive being apart when Nick leaves for university.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1338885103",
+              "primary_isbn13": "9781338885101",
+              "book_uri": "nyt://book/bcf57ebd-38b2-59ea-bb70-bd09334e117e",
+              "publisher": "Scholastic",
+              "rank": 3,
+              "rank_last_week": 6,
+              "sunday_review_link": "",
+              "title": "NICK AND CHARLIE",
+              "updated_date": "2023-05-31 22:24:46",
+              "weeks_on_list": 21,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/1338885103?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781338885101?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781338885101"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FNICK%252BAND%252BCHARLIE%252FAlice%252BOseman%252F9781338885101&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DNICK%252BAND%252BCHARLIE%252BAlice%252BOseman"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781338885101&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DNICK%2BAND%2BCHARLIE"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781338885101%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DNICK%2BAND%2BCHARLIE%2BAlice%2BOseman%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/1250766583?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Angeline Boulley",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9781250766588.jpg",
+              "book_image_width": 331,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Angeline Boulley",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:21",
+              "description": "Perry and Pauline Firekeeper-Birch discover that a local university is holding on to deceased Anishinaabe remains.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "1250766583",
+              "primary_isbn13": "9781250766588",
+              "book_uri": "nyt://book/ef9efc30-971c-5aec-b470-04edfc86f529",
+              "publisher": "Holt",
+              "rank": 4,
+              "rank_last_week": 4,
+              "sunday_review_link": "",
+              "title": "WARRIOR GIRL UNEARTHED",
+              "updated_date": "2023-05-31 22:24:46",
+              "weeks_on_list": 4,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/1250766583?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9781250766588?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250766588"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FWARRIOR%252BGIRL%252BUNEARTHED%252FAngeline%252BBoulley%252F9781250766588&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DWARRIOR%252BGIRL%252BUNEARTHED%252BAngeline%252BBoulley"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250766588&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DWARRIOR%2BGIRL%2BUNEARTHED"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250766588%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DWARRIOR%2BGIRL%2BUNEARTHED%2BAngeline%2BBoulley%26aff%3DNYT"
+                }
+              ]
+            },
+            {
+              "age_group": "",
+              "amazon_product_url": "https://www.amazon.com/dp/0063240807?tag=NYTBSREV-20",
+              "article_chapter_link": "",
+              "author": "Adam Silvera",
+              "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063240803.jpg",
+              "book_image_width": 331,
+              "book_image_height": 500,
+              "book_review_link": "",
+              "contributor": "by Adam Silvera",
+              "contributor_note": "",
+              "created_date": "2023-05-31 22:20:21",
+              "description": "In this prequel to \"They Both Die at the End,\" Orion and Valentino attend the premiere of Death-Cast in Times Square.",
+              "first_chapter_link": "",
+              "price": "0.00",
+              "primary_isbn10": "0063240807",
+              "primary_isbn13": "9780063240803",
+              "book_uri": "nyt://book/0f81d9c3-b905-51f8-bba7-6f3c5610603c",
+              "publisher": "Quill Tree",
+              "rank": 5,
+              "rank_last_week": 8,
+              "sunday_review_link": "",
+              "title": "THE FIRST TO DIE AT THE END",
+              "updated_date": "2023-05-31 22:24:46",
+              "weeks_on_list": 34,
+              "buy_links": [
+                {
+                  "name": "Amazon",
+                  "url": "https://www.amazon.com/dp/0063240807?tag=NYTBSREV-20"
+                },
+                {
+                  "name": "Apple Books",
+                  "url": "https://goto.applebooks.apple/9780063240803?at=10lIEQ"
+                },
+                {
+                  "name": "Barnes and Noble",
+                  "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780063240803"
+                },
+                {
+                  "name": "Books-A-Million",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BFIRST%252BTO%252BDIE%252BAT%252BTHE%252BEND%252FAdam%252BSilvera%252F9780063240803&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BFIRST%252BTO%252BDIE%252BAT%252BTHE%252BEND%252BAdam%252BSilvera"
+                },
+                {
+                  "name": "Bookshop",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780063240803&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Faffiliate%3D3546%26keywords%3DTHE%2BFIRST%2BTO%2BDIE%2BAT%2BTHE%2BEND"
+                },
+                {
+                  "name": "IndieBound",
+                  "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780063240803%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BFIRST%2BTO%2BDIE%2BAT%2BTHE%2BEND%2BAdam%2BSilvera%26aff%3DNYT"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }

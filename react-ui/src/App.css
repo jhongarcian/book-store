@@ -20,6 +20,26 @@ body {
   color: var(--textColor);
   background-color: #ffffff;
 }
+h1,
+h2,
+h3,
+h4,
+h5 {
+  text-transform: capitalize;
+  font-size: 24px;
+}
+
+@media (width >= 640px) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    text-transform: capitalize;
+    font-size: 46px;
+    line-height: 46px;
+  }
+}
 
 html {
   scroll-behavior: smooth;
@@ -57,7 +77,7 @@ html {
   border-radius: 8px;
   cursor: pointer;
   color: var(--grey-700);
-  transition: .2s ease;
+  transition: 0.2s ease;
 }
 
 .btn-primary:hover {
