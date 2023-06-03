@@ -10,8 +10,9 @@ const BookCard = ({ name, author, image, num }) => {
   useEffect(() => {
     const observer = new IntersectionObserver((entries) => {
       const entry = entries[0];
-      setElementInView(entry.isIntersecting);
-      console.log(entry);
+      if(entry.rootBounds.width >= 640) {
+        setElementInView(entry.isIntersecting);
+      }
     });
     observer.observe(myRef.current);
     setElementStyle(`book-card--animation-${num}`);
