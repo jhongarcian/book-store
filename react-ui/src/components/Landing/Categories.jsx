@@ -81,6 +81,7 @@ const Categories = () => {
       </div>
       <ul className="y-wrap category-container__list">{categroyNames}</ul>
       <div>{selectedCategory && selectedCategory.length && <p>{selectedCategory}</p>}</div>
+      
     </section>
   );
 };
