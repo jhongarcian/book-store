@@ -1,31 +1,21 @@
 import React, { useEffect, useState } from "react";
-import names_endpoint from "../../mocks/name-endpoint.json";
 import "../css/Categories.css";
+import { useSelector } from "react-redux";
+import { selectCategoryNames } from "../../features/categoryNamesSlice";
 
 const Categories = () => {
   const [bestSellerNames, setBestSellersName] = useState([]);
   const [fiveNames, setFiveNames] = useState([]);
   const [selectedCategory, setSelectedCategory] = useState('Animals');
+  
+  const dataCategoryNames = useSelector(selectCategoryNames);
 
   useEffect(() => {
-    const apiKey = "17CifeUPzRUtsykNW6FZaDu5tm5tRvqv";
-    const url = `https://api.nytimes.com/svc/books/v3/lists/names.json?api-key=${apiKey}`;
-    const fetchCategoryNames = () => {
-      try {
-        // const response = await fetch(url) ;
-        const data = names_endpoint;
-        // const data = await response.json();
-        return data;
-      } catch (error) {
-        console.error(error);
-      }
-    };
-    const data = fetchCategoryNames();
-    if (data && data.results) {
-      const names = data.results;
+    if (dataCategoryNames) {
+      const names = [...dataCategoryNames];
       setBestSellersName(names);
     }
-  }, []);
+  }, [dataCategoryNames]);
 
   useEffect(() => {
     if (bestSellerNames && bestSellerNames.length > 0) {
