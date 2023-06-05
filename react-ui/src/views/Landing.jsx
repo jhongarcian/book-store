@@ -1,11 +1,12 @@
 import React from "react";
-import { Hero, TopBooks } from "../components/Landing";
+import { Hero, TopBooks, Categories } from "../components/Landing";
 
 function Landing() {
   return (
     <>
-      <Hero></Hero>
-      <TopBooks></TopBooks>
+      <Hero />
+      <TopBooks />
+      <Categories />
     </>
   );
 }

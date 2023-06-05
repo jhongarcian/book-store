@@ -27,7 +27,7 @@ li .active {
 li {
     position: relative;
 }
-li::after {
+nav ul li::after {
     content: '';
     position: absolute;
     left: -50%;
@@ -40,12 +40,12 @@ li::after {
     opacity: 0;
 }
 
-li:hover::after {
+nav ul li:hover::after {
     left: 0;
     opacity: 1;
 }
 
-li {
+nav ul li {
     color: var(--grey-700);
     text-transform: uppercase;
 }

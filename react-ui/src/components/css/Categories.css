@@ -1,0 +1,38 @@
+.category-container__title {
+  padding: 32px 12px;
+  text-align: center;
+}
+
+.category-container__list {
+    border-top: 1px solid var(--grey-700);
+    border-bottom: 1px solid var(--grey-700);
+  display: flex;
+  justify-content: space-evenly;
+  text-transform: uppercase;
+  overflow-x: auto;
+}
+
+.category-container__list li {
+  font-family: "JetBrains Mono", monospace;
+  padding: 12px 24px;
+  flex:  0 0 auto;
+ 
+}
+
+.category-list.active button {
+    color: var(--grey-600);
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+.category-container__list li button {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+.category-container__list li button:hover {
+    transform: scale(1.2);
+    color: var(--grey-500);
+}
