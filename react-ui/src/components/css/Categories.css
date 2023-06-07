@@ -21,7 +21,6 @@
 
 .category-list.active button {
     color: var(--grey-600);
-    font-weight: 800;
     text-decoration: underline;
 }
 

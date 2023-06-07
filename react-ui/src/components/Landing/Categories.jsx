@@ -1,56 +1,50 @@
 import React, { useEffect, useState } from "react";
 import "../css/Categories.css";
 import { useSelector } from "react-redux";
-import { selectCategoryNames } from "../../features/categoryNamesSlice";
+import {selectWeekBestSellers} from '../../features/weekBestSellersSlice'
+import CategoryView from "./CategoryView";
+
 
 const Categories = () => {
-  const [bestSellerNames, setBestSellersName] = useState([]);
   const [fiveNames, setFiveNames] = useState([]);
-  const [selectedCategory, setSelectedCategory] = useState('Animals');
+  const [selectedCategoryName, setSelectedCategoryName] = useState();
+  const [selectedCategoryData, setSelectedCategoryData] = useState([])
   
-  const dataCategoryNames = useSelector(selectCategoryNames);
+  const dataWeekBestSelllers = useSelector(selectWeekBestSellers);
 
   useEffect(() => {
-    if (dataCategoryNames) {
-      const names = [...dataCategoryNames];
-      setBestSellersName(names);
+    if (dataWeekBestSelllers) {
+      const list = [...dataWeekBestSelllers.lists];
+      if (list && list.length > 0) {
+        const fiveDesiredNames = getFiveCategoryNames(list);
+        setFiveNames(fiveDesiredNames);
+        setSelectedCategoryName(fiveDesiredNames[0].display_name)
+      }
     }
-  }, [dataCategoryNames]);
+  }, [dataWeekBestSelllers]);
 
   useEffect(() => {
-    if (bestSellerNames && bestSellerNames.length > 0) {
-      const fiveDesiredNames = getFiveCategoryNames(bestSellerNames);
-      setFiveNames(fiveDesiredNames);
-    }
-  }, [bestSellerNames]);
+    const data = fiveNames && fiveNames.length > 0 && fiveNames.filter(item => item.display_name === selectedCategoryName)
+    setSelectedCategoryData(data)
+  } , [selectedCategoryName])
 
   function getFiveCategoryNames(data) {
     const list = [...data];
 
-    const desiredCategoryList = [
-      "Science",
-      "Animals",
-      "Business Books",
-      "Education",
-      "Food and Fitness",
-    ];
+    const listSorted = list.sort((a,b) => 0.5 - Math.random())
 
     let selectedNames = [];
     if (list && list.length) {
-      for (let i = 0; i < list.length; i++) {
-        for (let j = 0; j < desiredCategoryList.length; j++) {
-          if (list[i].list_name === desiredCategoryList[j]) {
-            selectedNames.push(list[i]);
+      for (let i = 0; i < 4; i++) {
+            selectedNames.push(listSorted[i]);
           }
-        }
       }
-    }
     return selectedNames;
   }
 
-  const handleSelectedCategory = (e) => {
+  const handleSelectedCategoryName = (e) => {
     const { textContent } = e.target;
-    setSelectedCategory(textContent);
+    setSelectedCategoryName(textContent);
   };
 
   const categroyNames =
@@ -58,8 +52,8 @@ const Categories = () => {
     fiveNames.length > 0 &&
     fiveNames.map((item) => {
       return (
-        <li className={`category-list ${selectedCategory === item.display_name ? 'active' : '' }`} key={item.list_name} data-name={item.list_name}>
-          <button onClick={handleSelectedCategory}>{item.display_name}</button>
+        <li className={`category-list ${selectedCategoryName === item.display_name ? 'active' : '' }`} key={item.list_name} data-name={item.list_name}>
+          <button onClick={handleSelectedCategoryName}>{item.display_name}</button>
         </li>
       );
     });
@@ -70,7 +64,7 @@ const Categories = () => {
         <h2>Categories</h2>
       </div>
       <ul className="y-wrap category-container__list">{categroyNames}</ul>
-      <div>{selectedCategory && selectedCategory.length && <p>{selectedCategory}</p>}</div>
+      <div>{selectedCategoryName && selectedCategoryName.length && <CategoryView data={selectedCategoryData} />}</div>
       
     </section>
   );
