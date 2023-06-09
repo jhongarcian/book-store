@@ -10,7 +10,9 @@ const GameView = ({ data, gameLevel }) => {
     .sort((a, b) => 0.5 - Math.random());
 
   return (
-    <aside className={`game--area game__${gameLevel.level}`}>{bookCards}</aside>
+    <aside className={`game--area game__${gameLevel.level}`}>
+        {bookCards}
+    </aside>
   );
 };
 export default GameView;

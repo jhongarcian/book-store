@@ -8,31 +8,29 @@
 .game--area {
   padding: 24px 0;
   margin: 0 auto;
-  display: grid;
+  display: flex;
   align-items: center;
-  justify-items: center;
+  align-content: center;
   justify-content: center;
-  align-content: space-evenly;
+  flex-wrap: wrap;
   gap: 4px;
-  height: 80vh;
+  min-height: 80vh;
+}
+
+.game--area article {
+  flex-direction: 0 0 auto;
 }
 .game__beginner {
-  grid-template-columns: repeat(3, auto);
-  grid-template-rows: repeat(4, auto);
+  gap: 16px;
 }
-
 .game__master {
-  grid-template-columns: repeat(4, auto);
-  grid-template-rows: repeat(4, auto);
+  gap: 8px;
 }
-
 .game__legendary {
-  grid-template-columns: repeat(4, auto);
-  grid-template-rows: repeat(5, auto);
+gap: 12px;
 }
 
 .game__image {
-  position: absolute;
   object-fit: fill;
   object-position: center;
   border-radius: 10px;
@@ -48,19 +46,20 @@
 }
 
 .col {
-  width: auto;
+  width: 100xp;
   max-width: 220px;
-  height: 70px;
+  height: 120px;
   max-height: 220px;
 }
 
 .back--side,
 .front--side {
+  position: absolute;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.25);
   text-align: center;
   max-height: 220px;
-  height: 70px;
-  width: auto;
+  height: 120px;
+  width: 90px;
   max-width: 220px;
   border-radius: 10px;
 }
@@ -119,19 +118,19 @@
 }
 
 @media (min-width: 640px) {
+  .game--area {
+    width: 620px;
+  }
+  .game__image {
+    position: absolute;
+  }
   .game__beginner {
-    grid-template-columns: repeat(auto-fit, minmax(120px, 150px));
-    grid-template-rows: auto;
     gap: 16px;
   }
   .game__master {
-    grid-template-columns: repeat(auto-fit, minmax(120px, 150px));
-    grid-template-rows: auto;
     gap: 8px;
   }
   .game__legendary {
-    grid-template-columns: repeat(auto-fit, minmax(120px, 150px));
-    grid-template-rows: auto;
     gap: 24px;
   }
   .col {
@@ -139,8 +138,6 @@
     height: 130px;
     max-height: 130px;
   }
-  .front,
-  .back,
   .front--side,
   .back--side {
     max-height: 140px;
@@ -149,24 +146,18 @@
   }
 }
 
-@media (min-width: 1200px){
+@media (min-width: 1200px) {
   .game--area {
-    width: 80%;
+    width: 700px;
   }
 
   .game__beginner {
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    grid-template-rows: auto;
     gap: 8px;
   }
   .game__master {
-    grid-template-columns: repeat(auto-fit, minmax(auto, 1fr));
-    grid-template-rows: auto;
     gap: 8px;
   }
   .game__legendary {
-    grid-template-columns: repeat(auto-fit, minmax(auto, 1fr));
-    grid-template-rows: auto;
   }
   .col {
     width: 250px;
