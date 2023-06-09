@@ -15,7 +15,7 @@ const CategoryView = ({ data }) => {
           return item;
         }
       });
-    console.log(books);
+    console.log(data);
     setDataBooks(books);
   }, [data]);
 

@@ -21,6 +21,10 @@ const Categories = () => {
         setSelectedCategoryName(fiveDesiredNames[0].display_name)
       }
     }
+    return () => {
+      setFiveNames([])
+      setSelectedCategoryName()
+    } 
   }, [dataWeekBestSelllers]);
 
   useEffect(() => {

@@ -37,7 +37,7 @@
 }
 
 .book-category__title {
-    font-size: 12px;
+    font-size: var(--fontSize)
 }
 
 

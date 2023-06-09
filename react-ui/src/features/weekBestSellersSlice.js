@@ -25,8 +25,8 @@ export const weekBestSellers = createSlice({
     initialState: [],
     reducers: {},
     extraReducers(builder) {
-        builder.addCase(fetchWeekBestSellers.fulfilled, (state, acttion) => {
-            return acttion.payload
+        builder.addCase(fetchWeekBestSellers.fulfilled, (state, action) => {
+            return action.payload
         });
     }
 })

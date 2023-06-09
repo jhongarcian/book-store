@@ -19,6 +19,7 @@ body {
   font-family: "Sarabun", sans-serif;
   color: var(--textColor);
   background-color: #ffffff;
+  font-size: var(--fontSize);
 }
 h1,
 h2,
@@ -38,6 +39,9 @@ h5 {
     text-transform: capitalize;
     font-size: 46px;
     line-height: 46px;
+  }
+  body {
+    font-size: var(--fontSize-medium);
   }
 }
 

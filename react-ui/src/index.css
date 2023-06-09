@@ -35,4 +35,6 @@
   --backgroundColor-grey: var(--primary-color-grey);
   --backgroundColor-light: var(--primary-color-light);
   --textColor: var(--grey-700);
+  --fontSize: 14px;
+  --fontSize-medium: 20px;
 }

@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "level": "beginner",
+      "number_of_books": 6,
+      "time": 60
+    },
+    {
+      "id": 2,
+      "level": "master",
+      "number_of_books": 8,
+      "time": 55
+    },
+    {
+      "id": 3,
+      "level": "legendary",
+      "number_of_books": 10,
+      "time": 50
+    },
+    {
+      "id": 4,
+      "level": "epic",
+      "number_of_books": 12,
+      "time": 50
+    }
+
+  ]
