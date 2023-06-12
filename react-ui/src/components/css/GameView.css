@@ -152,12 +152,13 @@ gap: 12px;
   }
 
   .game__beginner {
-    gap: 8px;
+    gap: 34px;
   }
   .game__master {
-    gap: 8px;
+    gap: 24px;
   }
   .game__legendary {
+    gap: 24px;
   }
   .col {
     width: 250px;
