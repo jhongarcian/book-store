@@ -5,16 +5,15 @@ import { selectBookImages } from "../features/bookImagesSlice";
 import "./css/Game.css";
 import { useDispatch, useSelector } from "react-redux";
 import { addGameInfo } from "../features/gameInfoSlice";
-import { trackAnswerClick } from "../features/trackedAnswerClickSlice";
 
-function Game() {
+const Game = () => {
   const [level, setLevel] = useState();
   const [imageData, setImageData] = useState({});
+  const [numberOfTries, setNumberOfTries] = useState()
 
   const dispatch = useDispatch();
 
   const dataBookImages = useSelector(selectBookImages);
-  const numberOfCardOpened = useSelector(trackAnswerClick);
 
   useEffect(() => {
     const bookImages = dataBookImages &&
@@ -37,6 +36,10 @@ function Game() {
   const handleLevelClick = (gameLevel) => {
     setLevel(gameLevel);
   };
+
+  const handleAction = (numberOfCardOpened) => {
+    setNumberOfTries(numberOfCardOpened)
+  }
 
   function gameImagesList(bookList, levelData) {
     let list = [];
@@ -74,11 +77,11 @@ function Game() {
       <h1 className="game__title">Game time</h1>
       <div>
         <span>Number of tries</span>
-        <span>{numberOfCardOpened}</span>
+        <span>{numberOfTries}</span>
       </div>
       {!level && <div className="game__starter">{levelsView}</div>}
       {level && imageData && imageData.levelImages && (
-        <GameView gameLevel={level} />
+        <GameView action={handleAction} gameLevel={level} />
       )}
     </section>
   );

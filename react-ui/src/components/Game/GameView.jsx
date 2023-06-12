@@ -3,14 +3,18 @@ import { useDispatch, useSelector } from "react-redux";
 import { Card } from "./index";
 import "../css/GameView.css";
 import { selectGameInfo } from "../../features/gameInfoSlice";
-import { addTrackAnswerToStore } from '../../features/trackedAnswerClickSlice'
+import { addTrackAnswerToStore, trackAnswerClick } from '../../features/trackedAnswerClickSlice'
 
-const GameView = ({ gameLevel }) => {
+
+const GameView = ({ gameLevel, action }) => {
   const [match, setMatch] = useState({});
   const [isMatch, setIsMatch] = useState();
   const data = useSelector(selectGameInfo);
 
   const dispatch = useDispatch()
+
+  const numberOfCardOpened = useSelector(trackAnswerClick);
+
 
   const handleClick = (twoCards) => {
     setMatch(twoCards);
@@ -24,6 +28,8 @@ const GameView = ({ gameLevel }) => {
       const sameCards = match.every((obj) => obj[0].name === referenceValue);
       sameCards ? setIsMatch(true) : setIsMatch(false);
     }
+    // Count the number of matches. 
+    action(numberOfCardOpened)
   }, [match]);
   const bookCards = data.map((item, index) => {
     return (
