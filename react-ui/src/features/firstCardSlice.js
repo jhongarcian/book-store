@@ -6,6 +6,9 @@ export const firstCardSlice = createSlice({
     reducers: {
         addFirstCardToStore(state, action) {
             return action.payload;
+        },
+        resetFirstCardInStore: (state) => {
+            return [];
         }
     }
 })
@@ -14,4 +17,4 @@ export const firstCard = state => state.first_card;
 
 export default firstCardSlice.reducer;
 
-export const { addFirstCardToStore } = firstCardSlice.actions;
+export const { addFirstCardToStore, resetFirstCardInStore } = firstCardSlice.actions;

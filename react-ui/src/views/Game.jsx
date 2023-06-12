@@ -3,13 +3,18 @@ import { Starter, GameView } from "../components/Game";
 import levels from "../mocks/game_levels.json";
 import { selectBookImages } from "../features/bookImagesSlice";
 import "./css/Game.css";
-import { useSelector } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
+import { addGameInfo } from "../features/gameInfoSlice";
+import { trackAnswerClick } from "../features/trackedAnswerClickSlice";
 
 function Game() {
   const [level, setLevel] = useState();
   const [imageData, setImageData] = useState({});
 
+  const dispatch = useDispatch();
+
   const dataBookImages = useSelector(selectBookImages);
+  const numberOfCardOpened = useSelector(trackAnswerClick);
 
   useEffect(() => {
     const bookImages = dataBookImages &&
@@ -19,13 +24,15 @@ function Game() {
       bookImages.sort((a, b) => 0.5 - Math.random());
       // Get the number of images to display in the game
       const levelImages = gameImagesList(bookImages, level.num_books);
-      console.log(level)
+      levelImages.sort((a, b) => 0.5 - Math.random());
       setImageData({ levelImages, level });
     }
     return () => {
       setImageData({});
     };
   }, [level]);
+
+
 
   const handleLevelClick = (gameLevel) => {
     setLevel(gameLevel);
@@ -39,7 +46,13 @@ function Game() {
     }
     return list;
   }
-  const gameView = imageData && imageData.levelImages && imageData.levelImages.length && imageData.levelImages
+  const gameView =
+    imageData &&
+    imageData.levelImages &&
+    imageData.levelImages.length &&
+    imageData.levelImages;
+
+  dispatch(addGameInfo(gameView));
 
   const levelsView =
     levels &&
@@ -59,8 +72,14 @@ function Game() {
   return (
     <section className="y-wrap">
       <h1 className="game__title">Game time</h1>
+      <div>
+        <span>Number of tries</span>
+        <span>{numberOfCardOpened}</span>
+      </div>
       {!level && <div className="game__starter">{levelsView}</div>}
-      {level && imageData && imageData.levelImages && <GameView data={gameView} gameLevel={level} />}
+      {level && imageData && imageData.levelImages && (
+        <GameView gameLevel={level} />
+      )}
     </section>
   );
 }
