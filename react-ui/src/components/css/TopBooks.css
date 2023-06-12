@@ -1,5 +1,6 @@
 .top-books-container {
   width: 100%;
+  min-height: 320px;
   background-color: #ffffff;
 }
 

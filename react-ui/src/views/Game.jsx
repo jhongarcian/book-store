@@ -73,7 +73,7 @@ const Game = () => {
     });
 
   return (
-    <section className="y-wrap">
+    <section className="y-wrap main__container">
       <h1 className="game__title">Game time</h1>
       <div>
         <span>Number of tries</span>
