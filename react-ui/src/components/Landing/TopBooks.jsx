@@ -183,8 +183,10 @@ const TopBooks = () => {
       },
   ];
   const book = data.map((item,index) => {
+
     return (
       <BookCard
+        bookData={item}
         num={index}
         key={item.title}
         name={item.title}

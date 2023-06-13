@@ -6,6 +6,9 @@ import trackedAnswerClickSlice from '../features/trackedAnswerClickSlice';
 import firstCardSlice from '../features/firstCardSlice';
 import secondCardSlice from '../features/secondCardSlice';
 import gameInfoSlice from '../features/gameInfoSlice';
+import bookFavoritesSlice from '../features/bookFavoritesSlice';
+
+
 
 export default configureStore({
     reducer: {
@@ -15,6 +18,7 @@ export default configureStore({
         clicked_answer: trackedAnswerClickSlice,
         first_card: firstCardSlice,
         second_card: secondCardSlice,
-        game_info: gameInfoSlice
+        game_info: gameInfoSlice,
+        favorite_books: bookFavoritesSlice
     }
 });
